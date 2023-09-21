@@ -8,4 +8,8 @@ staged ready to committed
 unmodified unchanged  
 git add<file name>
 git commit -m "some message" record of change snapshot 
+<br>
+
+
+
 
